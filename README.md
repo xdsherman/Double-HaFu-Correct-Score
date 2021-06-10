@@ -204,7 +204,7 @@ Image(filename='Screenshot_20201123-062115_2.png',width = 600, height = 300)
 
 
 
-![png](output_26_0.png)
+![png](Screenshot_20201123-062115_2.png)
 
 
 
