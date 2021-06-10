@@ -179,21 +179,21 @@ find_score('1:0-1:0--1:0-1:1')
 
 Use the result from 24/05/2020 to 20/10/2020, total 119 matchest to test the result. The strategy is to buy the highest 20 combinations every time, costing $200 each time ($10 per unit). Result in soccer record.xlsx
 
-Cost: \\$23800 (\\$119*200)
+Cost: \$23800 (\$119*200)
 
-Profit: \\$49553
+Profit: \$49553
 
-Net Profit: \\$25753
+Net Profit: \$25753
 
 ### 4) Real Money Testing
 
 I bet all matches during November 2020. There are 19 matches in total 
 
-Cost: \\$3800 (\\$200*19)
+Cost: \$3800 (\$200*19)
 
-Profit: \\$7844
+Profit: \$7844
 
-Net Profit: $4044
+Net Profit: \$4044
 
 
 ```python
