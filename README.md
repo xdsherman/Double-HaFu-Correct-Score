@@ -54,7 +54,7 @@ def getodds(url):
 ```
 
 We need to have probabilities for 4 things, first match first half score, first match second half score,second match first half score and second match second half score.
-The match I picked here is champions league Chelsea - Atl. Madrid. 
+The match I picked here is champions league Chelsea - Atl. Madrid and bayern-munich-lazio. 
 
 
 ```python
