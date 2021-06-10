@@ -1,6 +1,6 @@
 # Double-HaFu-Correct-Scor# Double Hafu Score Betting Model
 
-In this project, I am trying to see if there is any profitability in HKJC Pari-Mutuel Pools in football. The rule is oof double hafu is as followed: predict the first half and the full time exact score results of two selected matches. Dividend for each winning bet is determined by the total investment in the pool and the number of winning units. 
+In this project, I am trying to see if there is any profitability in HKJC Pari-Mutuel Pools in football. The rule is of double hafu is as followed: predict the first half and the full time exact score results of two selected matches. Dividend for each winning bet is determined by the total investment in the pool and the number of winning units. 
 
 
 
@@ -18,7 +18,7 @@ In this project, I am trying to see if there is any profitability in HKJC Pari-M
 
 The strategy of pari-mutuel pool is to try to cover the combinations with highest probability with the least amount of units. In order to obtain the probability of each correct scores, the quick way is to use the odds from bookmakers. Oddsportal is a website that have odds that cover most matches in the world.
 
-### 2) Model Iplementation
+### 2) Model Implementation
 
 
 ```python
