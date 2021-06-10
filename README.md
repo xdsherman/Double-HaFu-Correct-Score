@@ -131,7 +131,7 @@ for i in firstMatch:
 temp=result.copy()
 ```
 
-sort the result in acending order
+sort the result in ascending order
 
 
 ```python
@@ -177,7 +177,7 @@ find_score('1:0-1:0--1:0-1:1')
 
 ### 3) Back testing
 
-Use the result from 24/05/2020 to 20/10/2020, total 119 matchest to test the result. The strategy is to buy the highest 20 cominations every time, costing $200 each time ($10 per unit). Result in soccer record.xlsx
+Use the result from 24/05/2020 to 20/10/2020, total 119 matchest to test the result. The strategy is to buy the highest 20 combinations every time, costing $200 each time ($10 per unit). Result in soccer record.xlsx
 
 Cost: \\$23800 (\\$119*200)
 
