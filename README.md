@@ -218,5 +218,7 @@ Image(filename='Screenshot_20201129-194937_2.png',width = 600, height = 300)
 
 <img src="Screenshot_20201123-062115_2.png" alt="drawing" width="300"/>
 
+# Conclusion:
 
+Overall, I get a get a positive return in both back testing and real money testing. However, the sample size in the real money testing is not sufficient enough to prove this is a long term winning model, but there is a high chance this model can bring a positive return
 
