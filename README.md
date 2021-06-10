@@ -177,7 +177,7 @@ find_score('1:0-1:0--1:0-1:1')
 
 ### 3) Back testing
 
-Use the result from 24/05/2020 to 20/10/2020, total 119 matchest to test the result. The strategy is to buy the highest 20 cominations every time, costing $200 each time ($10 per unit).
+Use the result from 24/05/2020 to 20/10/2020, total 119 matchest to test the result. The strategy is to buy the highest 20 cominations every time, costing $200 each time ($10 per unit). Result in soccer record.xlsx
 
 Cost: \\$23800 (\\$119*200)
 
@@ -204,7 +204,7 @@ Image(filename='Screenshot_20201123-062115_2.png',width = 600, height = 300)
 
 
 
-![png](Screenshot_20201123-062115_2.png)
+<img src="Screenshot_20201129-194937_2.png" alt="drawing" width="300"/>
 
 
 
@@ -216,7 +216,7 @@ Image(filename='Screenshot_20201129-194937_2.png',width = 600, height = 300)
 
 
 
-![png](output_27_0.png)
+<img src="Screenshot_20201123-062115_2.png" alt="drawing" width="300"/>
 
 
-e
+
